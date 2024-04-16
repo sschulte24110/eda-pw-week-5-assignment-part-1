@@ -40,8 +40,8 @@ console.log('My full name is:', fullName);
   - Console.log your last favorite food 
 */
 
-console.log(me.favThreeFoods[0]);
-console.log(me.favThreeFoods[me.favThreeFoods.length - 1]);
+console.log('First favorite food:', me.favThreeFoods[0]);
+console.log('Last favorite food:', me.favThreeFoods[me.favThreeFoods.length - 1]);
 
 
 /* 4. Change a property of an existing object.
